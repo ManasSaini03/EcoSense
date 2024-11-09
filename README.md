@@ -1,10 +1,10 @@
 # **EcoSense**
 
-*SAID* or Segregation Aid architecture, is a proposed solution to the problems revolving around waste segregation. SAID architecture segregates waste at the forefront of waste management, that is waste collection. This eliminates the need to allocate additional resources to segregate waste at the waste collection center.
+*EcoSense, is a proposed solution to the problems revolving around waste segregation. EcoSense architecture segregates waste at the forefront of waste management, that is waste collection. This eliminates the need to allocate additional resources to segregate waste at the waste collection center.
 
 Waste disposal is often a concern for various reasons including *eutrophication, toxic waste consumption by animals and land, air or water pollution.*
 
-Old architectures of dustbins either requires usage of multiple bins, which allows us to choose the correct dustbin for organic and recycleable waste, but most of the times, its the human error or ignorance that introduces the need for further waste segregation techniques, utilizing more time and captial. This ML algorithm helps SAID dustbin architecture to segregate waste based on image data acquired using lenses equipped within the SAID bin. The waste will be segregated into either of the two categories -
+Old architectures of dustbins either requires usage of multiple bins, which allows us to choose the correct dustbin for organic and recycleable waste, but most of the times, its the human error or ignorance that introduces the need for further waste segregation techniques, utilizing more time and captial. This ML algorithm helps EcoSense dustbin architecture to segregate waste based on image data acquired using lenses equipped within the EcoSense bin. The waste will be segregated into either of the two categories -
 
 - <span style = "color : #90EE90"> ***Organic Waste*** </span>
 - <span style = "color : #87CEEB"> ***Recyclable Waste*** </span>
